@@ -7,5 +7,5 @@
 
 <hr/>
 <p align="center">
-<img src="https://tylerlatshaw.com/_next/static/media/gradient-logo-animated.a32fad62.svg" alt="drawing" width="400"/>
+<img src="https://tylerlatshaw.com/static/gradient-logo-animated.svg" alt="drawing" width="400"/>
 </p>
